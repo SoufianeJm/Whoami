@@ -10,7 +10,7 @@
 
     --title-color: #373F4E;
     --title-color-dark: #0A0E15;
-    --text-color: #4e576a;
+    --text-color: #485166; 
     --body-color: #f0f1f5;
     --container-color: #fff;
   
@@ -53,12 +53,19 @@
   --z-modal: 1000;
 }
 
-[data-theme = dark]{
+.dark-mode{
   --body-color: #212631 !important;
-  --container-color: #0A0E15;
+  --container-color: #252a39;
   --title-color: #E0E4EB;
   --title-color-dark: #FFF;
   --text-color: #BFC6D4;
+}
+.light-mode {
+  --title-color: #373F4E;
+  --title-color-dark: #0A0E15;
+  --text-color: #485166; 
+  --body-color: #f0f1f5;
+  --container-color: #fff;
 }
 
 
@@ -140,6 +147,7 @@ img {
   display: block;
   font-size: var(--small-font-size);
   margin-bottom: 4rem;
+  color: #888c98; 
 }
 
 .section__title,
@@ -163,7 +171,7 @@ img {
 .button {
   display: inline-block;
   background-color: #53808b;
-  color: #f0f1f5;
+  color: #ffffff;
   padding: 1.25rem 2rem;
   border-radius: 1rem;
   font-weight: var(--font-medium);
@@ -202,11 +210,17 @@ img {
 
 /* For medium devices */
 @media screen and (max-width: 768px) {
+  body {
+    margin: 0 0 var(--header-height) 0;
+  }
+
   .section {
     padding: 2rem 0 4rem;
   }
 
-  
+  .section__subtitle {
+    margin-bottom: var(--mb-3);
+  }
 }
 
 @media screen and (max-width: 576px) {
@@ -225,3 +239,4 @@ img {
 
 
 }
+
