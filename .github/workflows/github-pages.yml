@@ -11,6 +11,8 @@
         steps:
         - name: Checkout
           uses: actions/checkout@v2
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     
         - name: Build
           run: npm install
@@ -22,5 +24,5 @@
           run: |
             git config --global user.name 'Soufiane Joumal'
             git config --global user.email 'joumalsoufian17@gmail.com'
-            git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}    
+            git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git    
             npm run deploy
