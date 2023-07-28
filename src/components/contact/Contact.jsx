@@ -27,7 +27,7 @@ const Contact = () => {
               <h3 className="contact__card-title">Email</h3>
               <span className="contact__card-data">joumalsoufian17@gmail.com</span>
 
-              <a href="#g" className="contact__button">
+              <a href="mailto:joumalsoufian17@gmail.com.com" className="contact__button">
                 Write me{" "}
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
               </a>
@@ -39,7 +39,7 @@ const Contact = () => {
               <h3 className="contact__card-title">Whatsapp</h3>
               <span className="contact__card-data">+212656918855</span> 
 
-              <a href="#g" className="contact__button">
+              <a href="https://api.whatsapp.com/send?phone=+212656918855&text=Hello!" className="contact__button">
                 Write me{" "}
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
               </a>
@@ -51,7 +51,7 @@ const Contact = () => {
               <h3 className="contact__card-title">Instagram</h3>
               <span className="contact__card-data">souf2ane</span>
 
-              <a href="#g" className="contact__button">
+              <a href="https://www.instagram.com/souf2ane/" className="contact__button">
                 Write me{" "}
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
               </a>
