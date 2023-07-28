@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.f0bb6f7d.css",
-    "main.js": "/static/js/main.e7257d46.js",
+    "main.css": "/static/css/main.8d109a81.css",
+    "main.js": "/static/js/main.cd88c782.js",
     "static/media/Soufiane-Joumal-CV.pdf": "/static/media/Soufiane-Joumal-CV.fbef82fe7f9c198f3bcc.pdf",
-    "static/media/3dme.png": "/static/media/3dme.2318508e52129a335825.png",
     "static/media/Soufiane.png": "/static/media/Soufiane.597fa5559d7b552998b0.png",
     "static/media/work2.jpg": "/static/media/work2.509cbf04235e377f7ab2.jpg",
     "static/media/work1.jpg": "/static/media/work1.b6232ac4644676c826d0.jpg",
+    "static/media/3d_me.png": "/static/media/3d_me.1c7b04e27b97174db6b7.png",
     "static/media/work3.jpg": "/static/media/work3.1df376ad35ed78713744.jpg",
     "index.html": "/index.html",
-    "main.f0bb6f7d.css.map": "/static/css/main.f0bb6f7d.css.map",
-    "main.e7257d46.js.map": "/static/js/main.e7257d46.js.map"
+    "main.8d109a81.css.map": "/static/css/main.8d109a81.css.map",
+    "main.cd88c782.js.map": "/static/js/main.cd88c782.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0bb6f7d.css",
-    "static/js/main.e7257d46.js"
+    "static/css/main.8d109a81.css",
+    "static/js/main.cd88c782.js"
   ]
 }
