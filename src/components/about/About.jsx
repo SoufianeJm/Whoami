@@ -16,7 +16,7 @@ const About = () => {
                 <Info />
                 
                 <p className="about__description">
-                Born and raised in Morocco, Currently pursuing a degree in computer science at <a href='https://www.emsi.ma/'>The Moroccan School of Engineering</a>, with sights set on graduating in 2025.
+                Born and raised in Morocco, Currently pursuing a degree in computer science at <a href='https://www.emsi.ma/'>The Moroccan School of Engineering Sciences</a>, with sights set on graduating in 2025.
                 </p>
 
                 <a download="" href={CV} className='button button--flex'>Download CV
