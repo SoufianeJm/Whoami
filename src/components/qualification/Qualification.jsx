@@ -71,9 +71,9 @@ const Qualification = () => {
 
                         <div>
                             <h3 className="qualification__title">Software engineer (intern)</h3>
-                            <span className="qualification__subtitle">Morocco - Ilemgroup</span>
+                            <span className="qualification__subtitle">Morocco - EGTEC</span>
                             <div className="qualification__calendar">
-                                <i className="bx bx-calendar-alt"></i> 2023
+                                <i className="bx bx-calendar-alt"></i> 2022
                             </div>
                         </div>
 
@@ -93,7 +93,7 @@ const Qualification = () => {
                         </div>
 
                         <div>
-                            <h3 className="qualification__title">UX/UI Designer</h3>
+                            <h3 className="qualification__title">Front end Developer</h3>
                             <span className="qualification__subtitle">Morocco - Freelance</span>
                             <div className="qualification__calendar">
                                 <i className="bx bx-calendar-alt"></i> 2019 - present
