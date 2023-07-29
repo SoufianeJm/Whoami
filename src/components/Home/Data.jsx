@@ -7,8 +7,8 @@ const Data = () => {
     </h1>
 
     <h3 className="home__subtitle">[ Sou-Fi-Ya-N' ] <span className="subtitle__noun"> noun.</span></h3>
-    <p className="home__description">a professional that applies engineering principles to design, develop, test, and maintain applications that solves real-world problems for end users..</p>
-    <p className="Synonyms"><span>Synonyms</span> Sorcerer , Magician , Wizard </p>
+    <p className="home__description">a professional that applies engineering principles to design, develop, test, and maintain applications that solves real-world problems for end users.</p>
+    <p className="Synonyms"><span>Synonyms</span> Magician , Wizard </p>
 
     <a href="#contact" className="button button--flex">
         Say Hello
