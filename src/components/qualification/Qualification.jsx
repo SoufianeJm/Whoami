@@ -71,9 +71,9 @@ const Qualification = () => {
 
                         <div>
                             <h3 className="qualification__title">Software engineer (intern)</h3>
-                            <span className="qualification__subtitle">Morocco - EGTEC</span>
+                            <span className="qualification__subtitle">Morocco - ilemgroup</span>
                             <div className="qualification__calendar">
-                                <i className="bx bx-calendar-alt"></i> 2022
+                                <i className="bx bx-calendar-alt"></i> 2023
                             </div>
                         </div>
 
