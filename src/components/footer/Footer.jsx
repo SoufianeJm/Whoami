@@ -30,20 +30,12 @@ const Footer = () => {
             <i className="bx bxl-github"></i>
           </a>
           <a
-            href="https://www.instagram.com/souf2ane/"
+            href="https://www.instagram.com/souf3ane/"
             className="footer__social-link"
             target="_blank"
             rel="noreferrer"
           >
             <i className="bx bxl-instagram"></i>
-          </a>
-          <a
-            href="https://twitter.com/Souphyane02"
-            className="footer__social-link"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <i className="bx bxl-twitter"></i>
           </a>
         </div>
 
