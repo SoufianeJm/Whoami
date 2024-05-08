@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c3e58789.css",
-    "main.js": "/static/js/main.62bfa86a.js",
+    "main.js": "/static/js/main.f3435c82.js",
     "static/media/soufianejoumal_cv_main.pdf": "/static/media/soufianejoumal_cv_main.438c541632a60faede35.pdf",
     "static/media/Soufiane.png": "/static/media/Soufiane.3344044cf66159c84cac.png",
     "static/media/work2.jpg": "/static/media/work2.509cbf04235e377f7ab2.jpg",
@@ -10,10 +10,10 @@
     "static/media/work3.jpg": "/static/media/work3.1df376ad35ed78713744.jpg",
     "index.html": "/index.html",
     "main.c3e58789.css.map": "/static/css/main.c3e58789.css.map",
-    "main.62bfa86a.js.map": "/static/js/main.62bfa86a.js.map"
+    "main.f3435c82.js.map": "/static/js/main.f3435c82.js.map"
   },
   "entrypoints": [
     "static/css/main.c3e58789.css",
-    "static/js/main.62bfa86a.js"
+    "static/js/main.f3435c82.js"
   ]
 }
