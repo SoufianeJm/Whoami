@@ -4,7 +4,7 @@ const Social = () => {
   return (
     <div className="home__social">
         <a 
-            href="https://www.instagram.com/souf2ane/" 
+            href="https://www.instagram.com/souf3ane/" 
             className="home__social-icon" 
             target="_blank" 
             rel='noreferrer'
