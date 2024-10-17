@@ -68,6 +68,24 @@ const Qualification = () => {
 
                 <div className={toggleState === 2 ? "qualification__content qualification__content-active" : "qualification__content"}>
                     <div className="qualification__data">
+                            <div></div>
+
+                            <div>
+                                <span className="qualification__rounder"></span>
+                                <span className="qualification__line"></span>
+                            </div>
+
+                            <div>
+                                <h3 className="qualification__title">Volunteer web developer</h3>
+                                <span className="qualification__subtitle">Morocco - Givesudan.org</span>
+                                <div className="qualification__calendar">
+                                    <i className="bx bx-calendar-alt"></i> 2024 - present
+                                </div>
+                            </div>
+
+                        </div>
+
+                    <div className="qualification__data">
 
                         <div>
                             <h3 className="qualification__title">Software engineer (intern)</h3>
@@ -83,26 +101,6 @@ const Qualification = () => {
                         </div>
 
                     </div>
-
-                    <div className="qualification__data">
-                        <div></div>
-
-                        <div>
-                            <span className="qualification__rounder"></span>
-                            <span className="qualification__line"></span>
-                        </div>
-
-                        <div>
-                            <h3 className="qualification__title">Front end Developer</h3>
-                            <span className="qualification__subtitle">Morocco - Freelance</span>
-                            <div className="qualification__calendar">
-                                <i className="bx bx-calendar-alt"></i> 2019 - present
-                            </div>
-                        </div>
-
-                    </div>
-
-
 
                 </div>
             </div>
